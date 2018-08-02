@@ -45,7 +45,10 @@ body {
     text-align: center;
     padding:10px;
     font-family: 'Titillium Web', sans-serif;
-
+}
+a {
+      text-decoration: none;
+      
 }
 .mainContainer{
     position: relative;
