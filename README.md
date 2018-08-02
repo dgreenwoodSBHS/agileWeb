@@ -2,5 +2,6 @@
 Ben 
 cameron
 blake
-Vega
 Jacob
+Josh
+Caleb
