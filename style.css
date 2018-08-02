@@ -21,8 +21,15 @@ body {
     position: relative;
     width:100%;
     height: 100%;
-    background-color: grey;
-    opacity: 0.5;
+    background-color: white;
+    opacity: 0.8;
+    border-bottom: 3px solid green;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.logo {
+    position: relative;
+    width: 20%;
+    height: 40%;
 }
 .navContainer {
     position: relative;
@@ -38,23 +45,24 @@ body {
     text-align: center;
     padding:10px;
     font-family: 'Titillium Web', sans-serif;
-    
+
 }
 .mainContainer{
     position: relative;
     width: 100%;
     height: 100%;
     text-align: center;
+    top: 80px;
 }
 .bannerText{
     font-family: 'Exo', sans-serif;
-    font-size: 4vh;
+    font-size: 4vh;  
 }
 .content {
-    font-family: 'Roboto', sans-serif;;
+    font-family: 'Roboto', sans-serif;
     font-size: 2vh;
 }
 strong {
-    color: yellow;
+    color: grey;
     font-style: italic;
 }
