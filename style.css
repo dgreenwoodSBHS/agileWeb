@@ -50,14 +50,17 @@ a {
       text-decoration: none;
       
 }
+
 .mainContainer{
     position: relative;
-    width: 100%;
+    display: block;
+    width: 75%;
     height: 100%;
     text-align: center;
     top: 80px;
     background-color:rgba(250, 168, 0, 0.9);
     padding: 20px;
+    margin: 20px auto;
 }
 
 .bannerText{
