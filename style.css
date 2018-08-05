@@ -56,9 +56,10 @@ a {
     height: 100%;
     text-align: center;
     top: 80px;
-    background-color:orange;
-    opacity: 0.9;
+    background-color:rgba(250, 168, 0, 0.9);
+    padding: 20px;
 }
+
 .bannerText{
     font-family: 'Exo', sans-serif;
     font-size: 4vh;  
@@ -76,3 +77,4 @@ strong {
 p{ 
     font-family: 'Titillium Web', sans-serif;
 }
+
